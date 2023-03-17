@@ -1,0 +1,11 @@
+{
+  "Id": "SmolCraft",
+  "DisplayName": "SmolCraft",
+  "Author": "Perunq",
+  "Version": "0.1",
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "AssemblyName": "SmolCraft.dll",
+  "EntryMethod": "SmolCraft.Main.Load"
+}
+

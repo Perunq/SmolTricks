@@ -1,0 +1,41 @@
+[
+  {
+    "Key": "MundaneBeating.Name",
+    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
+    // links to encycolpedia pages.
+    "ProcessTemplates": false,
+    "enGB": "Mundane Beating"
+  },
+
+  {
+    "Key": "MundaneBeating.Description",
+    "enGB": "Your non critical attacks are unusually strong. Benefit: Your non critical attacks deal an additional damage as if they were one size larger."
+  },
+
+  {
+    "Key": "BaseGrappleFeature.Name",
+    // Don't process this since it is just a name. Without this it might create strange artifacts by trying to create
+    // links to encycolpedia pages.
+    "ProcessTemplates": false,
+    "enGB": "Base Grapple"
+
+  },
+
+  {
+    "Key": "BaseGrappleFeature.Description",
+    "enGB": "You can grapple."
+  },
+
+  {
+    "Key": "Lion.Name",
+    "ProcessTemplates": false,
+
+    "enGB": "SmolCraftLion"
+  },
+
+
+  {
+    "Key": "Lion.Description",
+    "enGB": "A big kitty"
+  }
+]
